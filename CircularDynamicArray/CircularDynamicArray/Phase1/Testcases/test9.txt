@@ -1,0 +1,4 @@
+14
+1 2 4 5 8 6 7 9 3 0 9 1 0 0
+1 1 1 1 1 1 1 1 1 6 9 9 9 10
+^^ Testing binSearch function ^^

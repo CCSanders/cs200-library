@@ -1,0 +1,4 @@
+13
+1 2 4 5 8 6 7 9 3 4 9 1 0
+1 1 1 1 1 1 1 1 1 8 8 8 10
+^^ Testing linearSearch function ^^

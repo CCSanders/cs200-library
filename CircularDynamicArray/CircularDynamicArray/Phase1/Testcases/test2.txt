@@ -1,0 +1,4 @@
+10
+2 4 6 8 10 12 14 16 18 20
+0 1 0 1 2  2  0  2  0  10
+^^ Testing delFront function ^^
